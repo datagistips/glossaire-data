@@ -218,6 +218,8 @@ Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la 
 
 ## RDF
 
+## Requête
+
 ## Réutiliser
 Action d'exploiter une donnée, par exemple pour en faire un article, un graphique, une carte, une API
 
@@ -230,6 +232,8 @@ Document listant les variables d'un fichier de données, et leur signification. 
 ## Self Data
 
 ## Sémantique
+
+## Serveur
 
 ## SIREN
 
