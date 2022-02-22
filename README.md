@@ -10,14 +10,17 @@ Glossaire de la data et de l'opendata
 ## BAN
 Base Adresse Nationale. Base ouverte d'adresses.
 
+## Algorithme
+
 ## BANO
 
 ## betagouv
 
 ## CSV
-Format de données tabulaire à fort niveau d'interopérabilité, très utilisé dans le milieu de la Data, et aussi très apprécié.
+Comma Separated Value. Format de données tabulaire à fort niveau d'interopérabilité, très utilisé dans le milieu de la Data, et aussi très apprécié.
 
-## Chaud
+## Chaude
+Se dit d'une donnée mise à jour fréquemment, par exemple issue de capteurs
 
 ## CloseData
 
@@ -27,14 +30,20 @@ Format de données tabulaire à fort niveau d'interopérabilité, très utilisé
 Données. Peut englober les données ouvertes (OpenData), personnelles (SelfData), des villes intelligentes (Smart Data)
 
 ## Data-driven
+Terme utilisé pour signifier des décisions ou des politiques publiques pilotées par l'analyse de données.
 
 ## Data-literacy
+Littératie à la donnée. Se dit de l'acculturation au monde du numérique, notamment celui de la donnée : savoir lire un fichier de données, accéder et trouver des statistiques par soi-même.
 
 ## Déclaration des Droits de l'Homme et du Citoyen
 
 ## EIG
 
 ## Etalab
+
+## Excel
+
+## Flux
 
 ## Fraîche
 
@@ -47,6 +56,8 @@ Données. Peut englober les données ouvertes (OpenData), personnelles (SelfData
 ## IA
 
 ## IGN
+
+## Informations
 
 ## INSEE
 Institut national de la statistique et des études économique. Organisme public administrant et produisant des statistiques publiques en particulier sur la société, la démographie.
@@ -89,6 +100,8 @@ Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la 
 ## Source
 
 ## Standard
+
+## Statistiques
 
 ## Tableau
 
