@@ -36,7 +36,7 @@ Identifiant d'une table* de données
 
 ## Clé étrangère
 
-## CloseData
+## Close-Data
 
 ## Colonne
 
@@ -56,6 +56,8 @@ Terme utilisé pour signifier des décisions ou des politiques publiques piloté
 
 ## Data-Literacy
 Littératie à la donnée. Se dit de l'acculturation au monde du numérique, notamment celui de la donnée : savoir lire un fichier de données, accéder et trouver des statistiques par soi-même.
+
+## Data-Ops
 
 ## Data-Scientist
 Spécialiste de l'intelligence artificielle, chargé d'analyser des données grâce à aux statistiques et aux techniques d'apprentissage machine (Machine Learning).
