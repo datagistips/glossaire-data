@@ -3,6 +3,8 @@ Une proposition de glossaire de la data et de l'opendata
 
 ## Agréger
 
+## Algorithme
+
 ## API
 [appéi]
 
@@ -12,13 +14,13 @@ Se dit d'une colonne d'un fichier de type tabulaire. Synonyme : colonne, variabl
 ## BAN
 [bane] Base Adresse Nationale. Base ouverte d'adresses.
 
-## Algorithme
-
 ## BANO
 
 ## Base de données
 
-## betagouv
+## Betagouv
+
+## Brutes
 
 ## Cadastre
 
