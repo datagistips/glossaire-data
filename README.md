@@ -44,6 +44,8 @@ Identifiant d'une table* de données
 
 ## CRPA
 
+## Dashboard
+
 ## Data
 Données. Peut englober les données ouvertes (OpenData), personnelles (SelfData), des villes intelligentes (Smart Data)
 
