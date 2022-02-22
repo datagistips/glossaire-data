@@ -1,6 +1,8 @@
 # glossaire-data
 Glossaire de la data et de l'opendata
 
+## Agréger
+
 ## Attribut
 
 ## betagouv
@@ -53,6 +55,8 @@ Glossaire de la data et de l'opendata
 
 ## OpenSource
 
+## Redresser
+
 ## RDF
 
 ## RGPD
@@ -62,6 +66,12 @@ Glossaire de la data et de l'opendata
 ## Self Data
 
 ## Standard
+
+## Tableau
+
+## Tabulaire
+
+## Trier
 
 ## Variable
 
