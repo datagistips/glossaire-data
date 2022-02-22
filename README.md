@@ -44,6 +44,9 @@ Terme utilisé pour signifier des décisions ou des politiques publiques piloté
 ## Data-literacy
 Littératie à la donnée. Se dit de l'acculturation au monde du numérique, notamment celui de la donnée : savoir lire un fichier de données, accéder et trouver des statistiques par soi-même.
 
+## datagouv
+data.gouv.fr : portail national des données ouvertes
+
 ## Déclaration des Droits de l'Homme et du Citoyen
 
 ## DG
@@ -56,7 +59,9 @@ Directions Générales
 ## Excel
 Logiciel permettant de produire des tableaux de données et de faire des graphiques. Equivalent libre : OpenOffice ou LibreOffice
 
-## Fichiers foncier
+## FCD
+
+## Fichiers fonciers
 Aussi appelée matrice cadastrale, les fichiers fonciers sont les informations associées aux parcelles cadastrales du territoire.
 
 ## Flux
@@ -70,6 +75,13 @@ Se dit d'une donnée mise à jour peu fréquemment, telle des données de recens
 Donnée géographique
 
 ## GeoJSON
+
+## Géoportail
+
+## GPU
+Géoportail de l'Urbanisme
+
+## GTFS
 
 ## IA
 
@@ -111,6 +123,8 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 ## LPRN
 
 ## MAJIC
+
+## Mapillary
 
 ## MCD
 
