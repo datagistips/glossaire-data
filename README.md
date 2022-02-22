@@ -11,6 +11,8 @@ Une proposition de glossaire de la data et de l'opendata
 ## Attribut
 Se dit d'une colonne d'un fichier de type tabulaire. Synonyme : colonne, variable
 
+## Back-Office
+
 ## BAN
 [bane] Base Adresse Nationale. Base ouverte d'adresses.
 
@@ -105,6 +107,10 @@ Aussi appelée matrice cadastrale, les fichiers fonciers sont les informations a
 
 ## Froide
 Se dit d'une donnée mise à jour peu fréquemment, telle des données de recensement général de population mises à jour de façon pluri-anuelle.
+
+## Front-Office
+
+## Full-Stack
 
 ## GeoData
 Donnée géographique
@@ -201,6 +207,8 @@ Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la 
 ## OSM
 
 ## Paternité
+
+## PG
 
 ## Pivot
 
