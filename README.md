@@ -29,6 +29,8 @@ Se dit d'une donnée mise à jour fréquemment, par exemple issue de capteurs
 
 ## Colonne
 
+## Croiser
+
 ## CRPA
 
 ## Data
@@ -76,6 +78,10 @@ Institut national de la statistique et des études économique. Organisme public
 ## Inspire
 
 ## Interopérabilité
+
+## Joindre
+
+## Jointure
 
 ## JSON
 Format de donnée hiérarchique couramment utilisé dans le web, et les API
