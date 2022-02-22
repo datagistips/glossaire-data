@@ -123,6 +123,8 @@ Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la 
 
 ## Paternité
 
+## Pivot
+
 ## Producteur
 
 ## Redresser
@@ -142,6 +144,8 @@ Document listant les variables d'un fichier de données, et leur signification. 
 ## SIREN
 
 ## Source
+
+## Souveraines
 
 ## SQL
 Search Query Language. Langage permettant d'interroger des bases de données de type relationnelles.
