@@ -15,6 +15,8 @@ Base Adresse Nationale. Base ouverte d'adresses.
 
 ## BANO
 
+## Base de données
+
 ## betagouv
 
 ## CSV
@@ -51,13 +53,18 @@ Logiciel permettant de produire des tableaux de données et de faire des graphiq
 
 ## Fraîche
 
-## Froid
+## Froide
+Se dit d'une donnée mise à jour peu fréquemment, telle des données de recensement général de population mises à jour de façon pluri-anuelle.
 
 ## GeoData
+Donnée géographique
 
 ## GeoJSON
 
 ## IA
+
+## ID
+[aïedi] Identifiant unique attribué à une ligne de base de données.
 
 ## IGN
 
@@ -78,6 +85,9 @@ Format de donnée hiérarchique couramment utilisé dans le web, et les API
 ## Licences
 Conditions spécifiques d'utilisation et de partage des données. Parmi celles-ci, on peut citer la Licence Ouverte ou la licence ODbL.
 
+## Ligne
+Entité d'un tableau de données, à laquelle sont associées certaines caractéristiques ou variables. Par exemple, une commune à laquelle sont associées la population, la superficie.
+
 ## LO
 Licence Ouverte
 
@@ -86,7 +96,17 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 
 ## LPRN
 
-## No SQL
+## MCD
+
+## MPD
+
+## Modèle
+
+## Modèle de données
+
+## MongoDB
+
+## No-SQL
 
 ## Normalisation
 
@@ -99,23 +119,35 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 ## OpenData
 Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la source (paternité) et le millésime (date de la donnée). Dans certains cas, nécessite également de repartager à l'identique, soit en opendata. Voir le terme licences pour plus de détails.
 
+## OSM
+
 ## Paternité
 
+## Producteur
+
 ## Redresser
+
+## Référence cadastrale
 
 ## RDF
 
 ## RGPD
+Réglement Général pour la Protection des Données. Règlement européen protégeant les données personnelles des citoyens européens, notamment leur recueil sur les sites et plateformes internet.
 
 ## Schéma
+Document listant les variables d'un fichier de données, et leur signification. Synonyme : standard
 
 ## Self Data
+
+## SIREN
 
 ## Source
 
 ## SQL
+Search Query Language. Langage permettant d'interroger des bases de données de type relationnelles.
 
 ## Standard
+Document listant les variables d'un fichier de données, et leur signification. Synonyme : schéma
 
 ## Statistiques
 Initialement, il s'agit de techniques mathématiques dédiées à analyser des données et en révéler certains motifs : corrélations, classifications. Terme également attribué aux données.
