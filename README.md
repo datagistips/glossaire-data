@@ -181,6 +181,8 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 ## N/C
 Valeur associée à la non-connaissance de donnée dans un tableau.
 
+## Netex
+
 ## No-SQL
 
 ## Normalisation
