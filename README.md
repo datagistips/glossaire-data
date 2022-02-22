@@ -65,6 +65,8 @@ Spécialiste de l'intelligence artificielle, chargé d'analyser des données gr�
 ## datagouv
 data.gouv.fr : portail national des données ouvertes
 
+## Dataviz
+
 ## Déclaration des Droits de l'Homme et du Citoyen
 
 ## DINUM
