@@ -24,6 +24,9 @@ Base Adresse Nationale. Base ouverte d'adresses.
 ## CSV
 Comma Separated Value. Format de données tabulaire à fort niveau d'interopérabilité, très utilisé dans le milieu de la Data, et aussi très apprécié.
 
+## CDO
+Chief Data Officer
+
 ## Chaude
 Se dit d'une donnée mise à jour fréquemment, par exemple issue de capteurs
 
@@ -38,21 +41,38 @@ Se dit d'une donnée mise à jour fréquemment, par exemple issue de capteurs
 ## Data
 Données. Peut englober les données ouvertes (OpenData), personnelles (SelfData), des villes intelligentes (Smart Data)
 
-## Data-driven
+## Data-Analytics
+
+## Data-Driven
 Terme utilisé pour signifier des décisions ou des politiques publiques pilotées par l'analyse de données.
 
-## Data-literacy
+## Data-Engineer
+
+## Data-Literacy
 Littératie à la donnée. Se dit de l'acculturation au monde du numérique, notamment celui de la donnée : savoir lire un fichier de données, accéder et trouver des statistiques par soi-même.
+
+## Data-Scientist
+Spécialiste de l'intelligence artificielle, chargé d'analyser des données grâce à aux statistiques et aux techniques d'apprentissage machine (Machine Learning).
 
 ## datagouv
 data.gouv.fr : portail national des données ouvertes
 
 ## Déclaration des Droits de l'Homme et du Citoyen
 
-## DG
-Directions Générales
+## DINUM
+Direction Interministérielle du Numérique
+
+## DITP
+Direction Interministérielle de la Transformation Publique
+
+## DL
+Deep Learning. Techniques d'intelligence artificielle basées sur des réseaux de neurones.
+
+## DPO
+Délégué Général à la Protection des Données, en charge de la bonne mise en oeuvre du RGPD dans son organisation.
 
 ## EIG
+Entrepreneurs d'Intérêt Général
 
 ## Etalab
 
@@ -60,6 +80,7 @@ Directions Générales
 Logiciel permettant de produire des tableaux de données et de faire des graphiques. Equivalent libre : OpenOffice ou LibreOffice
 
 ## FCD
+Floating Car Data.
 
 ## Fichiers fonciers
 Aussi appelée matrice cadastrale, les fichiers fonciers sont les informations associées aux parcelles cadastrales du territoire.
@@ -82,6 +103,7 @@ Donnée géographique
 Géoportail de l'Urbanisme
 
 ## GTFS
+General Transit Feed Specification. Format de données, créé par Google, visant à décrire un réseau de bus dans son ensemble : points d'arrêts, horaires et lignes.
 
 ## IA
 
@@ -110,6 +132,9 @@ Format de donnée hiérarchique couramment utilisé dans le web, et les API
 
 ## Licences
 Conditions spécifiques d'utilisation et de partage des données. Parmi celles-ci, on peut citer la Licence Ouverte ou la licence ODbL.
+
+## LidarHD
+Données de levé Lidar réalisés par l'IGN pour reconstituer le relief en France de façon très précise.
 
 ## Ligne
 Entité d'un tableau de données, à laquelle sont associées certaines caractéristiques ou variables. Par exemple, une commune à laquelle sont associées la population, la superficie.
@@ -178,6 +203,8 @@ Document listant les variables d'un fichier de données, et leur signification. 
 ## Self Data
 
 ## SIREN
+
+## SIRENE
 
 ## Smart-Data
 Données issues des smart cities, ou villes intelligentes. Il peut s'agir de données chaudes*, issues de capteurs de trafic automobile, de qualité de l'air.
