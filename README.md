@@ -30,6 +30,11 @@ Chief Data Officer
 ## Chaude
 Se dit d'une donnée mise à jour fréquemment, par exemple issue de capteurs
 
+## Clé primaire
+Identifiant d'une table* de données
+
+## Clé étrangère
+
 ## CloseData
 
 ## Colonne
@@ -163,6 +168,12 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 
 ## MTE
 
+## NA
+Valeur associée à l'absence de donnée dans un tableau.
+
+## N/C
+Valeur associée à la non-connaissance de donnée dans un tableau.
+
 ## No-SQL
 
 ## Normalisation
@@ -188,8 +199,9 @@ Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la 
 
 ## Référence cadastrale
 
+## Relations
+
 ## RDF
-xxx
 
 ## Réutiliser
 Action d'exploiter une donnée, par exemple pour en faire un article, un graphique, une carte, une API
@@ -201,6 +213,8 @@ Réglement Général pour la Protection des Données. Règlement européen prot�
 Document listant les variables d'un fichier de données, et leur signification. Synonyme : standard
 
 ## Self Data
+
+## Sémantique
 
 ## SIREN
 
@@ -221,6 +235,9 @@ Document listant les variables d'un fichier de données, et leur signification. 
 
 ## Statistiques
 Initialement, il s'agit de techniques mathématiques dédiées à analyser des données et en révéler certains motifs : corrélations, classifications. Terme également attribué aux données.
+
+## Table
+Ou table de données. Peut identifier un tableau de données, ou la table de données d'une base de données relationnelle.
 
 ## TableSchema
 Format selon lequel décrire des données et établir des schémas ou standards de données. 
