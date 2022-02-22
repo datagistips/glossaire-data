@@ -164,6 +164,10 @@ Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la 
 ## Référence cadastrale
 
 ## RDF
+xxx
+
+## Réutiliser
+Action d'exploiter une donnée, par exemple pour en faire un article, un graphique, une carte, une API
 
 ## RGPD
 Réglement Général pour la Protection des Données. Règlement européen protégeant les données personnelles des citoyens européens, notamment leur recueil sur les sites et plateformes internet.
