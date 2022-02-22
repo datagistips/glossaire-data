@@ -106,7 +106,7 @@ Entité d'un tableau de données, à laquelle sont associées certaines caracté
 Licence Ouverte
 
 ## Loi Lemaire
-Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulgue l'opendata par défaut pour les données, sauf certaines exceptions telles que la sécurité intérieure, la présence de données personnelles.
+Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulgue l'opendata par défaut pour les données, sauf certaines exceptions telles que des données dont la connaissance pourrait porter atteinte à la sécurité intérieure, ou de données médicales et personnelles.
 
 ## LPRN
 
