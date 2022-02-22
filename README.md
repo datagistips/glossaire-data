@@ -1,5 +1,5 @@
 # glossaire-data
-Glossaire de la data et de l'opendata
+Une proposition de glossaire de la data et de l'opendata
 
 ## Agréger
 
