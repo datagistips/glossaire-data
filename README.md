@@ -19,6 +19,8 @@ Base Adresse Nationale. Base ouverte d'adresses.
 
 ## betagouv
 
+## Cadastre
+
 ## CSV
 Comma Separated Value. Format de données tabulaire à fort niveau d'interopérabilité, très utilisé dans le milieu de la Data, et aussi très apprécié.
 
@@ -44,12 +46,18 @@ Littératie à la donnée. Se dit de l'acculturation au monde du numérique, not
 
 ## Déclaration des Droits de l'Homme et du Citoyen
 
+## DG
+Directions Générales
+
 ## EIG
 
 ## Etalab
 
 ## Excel
 Logiciel permettant de produire des tableaux de données et de faire des graphiques. Equivalent libre : OpenOffice ou LibreOffice
+
+## Fichiers foncier
+Aussi appelée matrice cadastrale, les fichiers fonciers sont les informations associées aux parcelles cadastrales du territoire.
 
 ## Flux
 
@@ -102,6 +110,8 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 
 ## LPRN
 
+## MAJIC
+
 ## MCD
 
 ## MPD
@@ -111,6 +121,8 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 ## Modèle de données
 
 ## MongoDB
+
+## MTE
 
 ## No-SQL
 
@@ -148,6 +160,9 @@ Document listant les variables d'un fichier de données, et leur signification. 
 ## Self Data
 
 ## SIREN
+
+## Smart-Data
+Données issues des smart cities, ou villes intelligentes. Il peut s'agir de données chaudes*, issues de capteurs de trafic automobile, de qualité de l'air.
 
 ## Source
 
