@@ -4,12 +4,13 @@ Glossaire de la data et de l'opendata
 ## Agréger
 
 ## API
+[appéi]
 
 ## Attribut
 Se dit d'une colonne d'un fichier de type tabulaire. Synonyme : colonne, variable
 
 ## BAN
-Base Adresse Nationale. Base ouverte d'adresses.
+[bane] Base Adresse Nationale. Base ouverte d'adresses.
 
 ## Algorithme
 
@@ -131,7 +132,7 @@ Institut national de la statistique et des études économique. Organisme public
 ## Jointure
 
 ## JSON
-Format de donnée hiérarchique couramment utilisé dans le web, et les API
+[jizon (ou djeillezonne, chacun son école)]Format de donnée hiérarchique couramment utilisé dans le web, et les API
 
 ## LibreOffice
 
@@ -145,7 +146,7 @@ Données de levé Lidar réalisés par l'IGN pour reconstituer le relief en Fran
 Entité d'un tableau de données, à laquelle sont associées certaines caractéristiques ou variables. Par exemple, une commune à laquelle sont associées la population, la superficie.
 
 ## LO
-Licence Ouverte
+[hello] Licence Ouverte
 
 ## Loi Lemaire
 Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulgue l'opendata par défaut pour les données, sauf certaines exceptions telles que des données dont la connaissance pourrait porter atteinte à la sécurité intérieure, ou de données médicales et personnelles.
@@ -169,7 +170,7 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 ## MTE
 
 ## NA
-Valeur associée à l'absence de donnée dans un tableau.
+[énna] Valeur associée à l'absence de donnée dans un tableau.
 
 ## N/C
 Valeur associée à la non-connaissance de donnée dans un tableau.
