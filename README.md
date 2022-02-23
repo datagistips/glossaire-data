@@ -1,6 +1,8 @@
 # glossaire-data
 Une proposition de glossaire de la data et de l'opendata
 
+Voir aussi le fil "les mots de la data" sur twitter : https://twitter.com/datagistips/status/1359237154971537418
+
 ## Administrateur de données
 
 ## Agréger
