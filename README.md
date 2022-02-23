@@ -31,7 +31,7 @@ Se dit d'une colonne d'un fichier de type tabulaire. Synonyme : colonne, variabl
 ## Cadastre
 
 ## CSV
-Comma Separated Value. Format de données tabulaire à fort niveau d'interopérabilité, très utilisé dans le milieu de la Data, et aussi très apprécié.
+Comma Separated Value. Il s'agit d'un fichier texte où chaque colonne est séparée par une virgule. Il très utilisé dans le milieu de la Data, et aussi très apprécié pour son haut niveau d'interopérabilité.
 
 ## CDO
 Chief Data Officer
