@@ -153,6 +153,9 @@ Logiciel permettant de produire des tableaux de données et de faire des graphiq
 
 ### Explicabilité
 
+### Expression régulière
+Technique d'extraction et de validation de chaîne de caractères selon certains formats, par exemple des numéros de téléphone, des mails, des dates.
+
 ## F
 ### FCD
 Floating Car Data.
@@ -370,15 +373,21 @@ Réglement Général pour la Protection des Données. Règlement européen prot�
 ### Schéma
 Document listant les variables d'un fichier de données, et leur signification. Synonyme : standard
 
+### Scraping
+Technique d'extraction de données et d'informations structurées depuis des pages web.
+
 ### Self Data
+Données à caractère personnel.
 
 ### Sémantique
 
 ### Serveur
 
 ### Service Public de la Donnée
+Ensemble des données pivots et de référence à format impact économique et sociétal.
 
 ### SIG
+Système d'Information Géographique. Infrastructure, logiciels et bases de données visant à stocker, administrer et analyser des données à composante spatiale.
 
 ### SIREN
 
@@ -411,8 +420,12 @@ Format selon lequel décrire des données et établir des schémas ou standards 
 Fichier de données tabulaire constitué de lignes et de colonnes contenant des valeurs.
 
 ### Tabulaire
+Caractérise une forme ligne x colonne typique d'un tableau
+
+### Tag
 
 ### Text mining
+Procédé d'extraction de données et d'informations dans des documents textuels.
 
 ### Traitable
 
