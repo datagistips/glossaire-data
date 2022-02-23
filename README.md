@@ -1,6 +1,8 @@
 # glossaire-data
 Une proposition de glossaire de la data et de l'opendata
 
+## Administrateur de données
+
 ## Agréger
 
 ## Algorithme
@@ -21,6 +23,8 @@ Se dit d'une colonne d'un fichier de type tabulaire. Synonyme : colonne, variabl
 ## Base de données
 
 ## Betagouv
+
+## Big Data
 
 ## Brutes
 
@@ -46,7 +50,11 @@ Identifiant d'une table* de données
 
 ## Croiser
 
+## Crowd-Sourcing
+
 ## CRPA
+
+## CSW
 
 ## Dashboard
 
@@ -68,8 +76,12 @@ Littératie à la donnée. Se dit de l'acculturation au monde du numérique, not
 ## Data-Scientist
 Spécialiste de l'intelligence artificielle, chargé d'analyser des données grâce à aux statistiques et aux techniques d'apprentissage machine (Machine Learning).
 
-## datagouv
+## Data-Washing
+
+## Datagouv
 data.gouv.fr : portail national des données ouvertes
+
+## Dataset
 
 ## Dataviz
 
@@ -84,16 +96,28 @@ Direction Interministérielle de la Transformation Publique
 ## DL
 Deep Learning. Techniques d'intelligence artificielle basées sur des réseaux de neurones.
 
+## Documenter
+
 ## DPO
 Délégué Général à la Protection des Données, en charge de la bonne mise en oeuvre du RGPD dans son organisation.
+
+## Editer
 
 ## EIG
 Entrepreneurs d'Intérêt Général
 
+## Enclosure
+
+## Encodage
+
 ## Etalab
+
+## ETL
 
 ## Excel
 Logiciel permettant de produire des tableaux de données et de faire des graphiques. Equivalent libre : OpenOffice ou LibreOffice
+
+## Explicabilité
 
 ## FCD
 Floating Car Data.
@@ -117,7 +141,15 @@ Donnée géographique
 
 ## GeoJSON
 
+## Géomatique
+
 ## Géoportail
+
+## Git
+
+## Github
+
+## Gitlab
 
 ## GPU
 Géoportail de l'Urbanisme
@@ -137,9 +169,13 @@ General Transit Feed Specification. Format de données, créé par Google, visan
 ## INSEE
 Institut national de la statistique et des études économique. Organisme public administrant et produisant des statistiques publiques en particulier sur la société, la démographie.
 
+## Insight
+
 ## Inspire
 
 ## Interopérabilité
+
+## Jeu de données
 
 ## Joindre
 
@@ -159,19 +195,31 @@ Données de levé Lidar réalisés par l'IGN pour reconstituer le relief en Fran
 ## Ligne
 Entité d'un tableau de données, à laquelle sont associées certaines caractéristiques ou variables. Par exemple, une commune à laquelle sont associées la population, la superficie.
 
+## Lisible
+
 ## LO
 [hello] Licence Ouverte
 
 ## Loi Lemaire
 Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulgue l'opendata par défaut pour les données, sauf certaines exceptions telles que des données dont la connaissance pourrait porter atteinte à la sécurité intérieure, ou de données médicales et personnelles.
 
+## LOM
+
 ## LPRN
+
+## Machine Learning
 
 ## MAJIC
 
 ## Mapillary
 
 ## MCD
+
+## Metadata
+
+## Méta-données
+
+## ML
 
 ## MPD
 
@@ -190,6 +238,8 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 Valeur associée à la non-connaissance de donnée dans un tableau.
 
 ## Netex
+
+## NLP
 
 ## No-SQL
 
@@ -210,19 +260,31 @@ Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la 
 
 ## PG
 
+## Pipeline
+
 ## Pivot
 
+## Portail
+
+## PR
+
 ## Producteur
+
+## Privacy by Design
 
 ## Python
 
 ## R
+
+## Rapport Bothorel
 
 ## Redresser
 
 ## Référence cadastrale
 
 ## Relations
+
+## Reproductible
 
 ## RDF
 
@@ -234,6 +296,8 @@ Action d'exploiter une donnée, par exemple pour en faire un article, un graphiq
 ## RGPD
 Réglement Général pour la Protection des Données. Règlement européen protégeant les données personnelles des citoyens européens, notamment leur recueil sur les sites et plateformes internet.
 
+## RPG
+
 ## Schéma
 Document listant les variables d'un fichier de données, et leur signification. Synonyme : standard
 
@@ -242,6 +306,10 @@ Document listant les variables d'un fichier de données, et leur signification. 
 ## Sémantique
 
 ## Serveur
+
+## Service Public de la Donnée
+
+## SIG
 
 ## SIREN
 
@@ -273,10 +341,18 @@ Format selon lequel décrire des données et établir des schémas ou standards 
 
 ## Tabulaire
 
+## Text mining
+
+## Traitable
+
 ## Trier
+
+## Valider
 
 ## Variable
 
 ## Wikidata
+
+## XLS
 
 ## XML
