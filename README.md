@@ -209,6 +209,8 @@ General Transit Feed Specification. Format de données, créé par Google, visan
 
 ### Informations
 
+### Input
+
 ### INSEE
 Institut national de la statistique et des études économique. Organisme public administrant et produisant des statistiques publiques en particulier sur la société, la démographie.
 
@@ -319,6 +321,8 @@ Valeur associée à la non-connaissance de donnée dans un tableau.
 Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la source (paternité) et le millésime (date de la donnée). Dans certains cas, nécessite également de repartager à l'identique, soit en opendata. Voir le terme licences pour plus de détails.
 
 ### OSM
+
+### Output
 
 ## P
 ### Paternité
