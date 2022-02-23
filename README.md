@@ -46,6 +46,8 @@ Identifiant d'une table* de données
 
 ## Close-Data
 
+## Code INSEE
+
 ## Colonne
 
 ## Croiser
@@ -97,6 +99,10 @@ Direction Interministérielle de la Transformation Publique
 Deep Learning. Techniques d'intelligence artificielle basées sur des réseaux de neurones.
 
 ## Documenter
+
+## Données de référence
+
+## Données pivots
 
 ## DPO
 Délégué Général à la Protection des Données, en charge de la bonne mise en oeuvre du RGPD dans son organisation.
@@ -262,8 +268,6 @@ Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la 
 
 ## Pipeline
 
-## Pivot
-
 ## Portail
 
 ## PR
@@ -281,6 +285,8 @@ Données ouvertes, sans limite de réutilisation, hormis celle de mentionner la 
 ## Redresser
 
 ## Référence cadastrale
+
+## Référentiel
 
 ## Relations
 
