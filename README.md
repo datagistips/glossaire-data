@@ -6,8 +6,12 @@ Voir aussi le fil "les mots de la data" sur twitter : https://twitter.com/datagi
 ## Administrateur de données
 
 ## Agréger
+Action de calculer des indicateurs par groupe : sommes, médianes, moyennes, comptages,...
 
 ## Algorithme
+Séquence ordonnée d'opérations visant à résoudre un problème
+
+## Alpha-numérique
 
 ## API
 [appéi]
@@ -29,6 +33,7 @@ Se dit d'une colonne d'un fichier de type tabulaire. Synonyme : colonne, variabl
 ## Big Data
 
 ## Brutes
+Qualifie des données non synthétiques, proches de l'origine, conformes dans leur structure et leur contenu à ce qu'elles étaient au départ, au plus près de leur recueil.
 
 ## Cadastre
 
@@ -81,13 +86,16 @@ Littératie à la donnée. Se dit de l'acculturation au monde du numérique, not
 Spécialiste de l'intelligence artificielle, chargé d'analyser des données grâce à aux statistiques et aux techniques d'apprentissage machine (Machine Learning).
 
 ## Data-Washing
+Action de promotion ou d'auto-promotion de la transparence consistant à communiquer en grande pompe sur des jeux de données qui s'avèreront au final de faible impact et faible valeur, soit du fait de leur contenu trop synthétique, soit du fait de leur faible qualité.
 
 ## Datagouv
 data.gouv.fr : portail national des données ouvertes
 
 ## Dataset
+Jeu de données. Ensemble de fichiers de données pour un sujet ou une thématique donnés.
 
 ## Dataviz
+Datavisualisation. Représentations visuelles des données sous la forme de graphiques, de cartes, d'applications interactives.
 
 ## Déclaration des Droits de l'Homme et du Citoyen
 
@@ -101,6 +109,7 @@ Direction Interministérielle de la Transformation Publique
 Deep Learning. Techniques d'intelligence artificielle basées sur des réseaux de neurones.
 
 ## Documenter
+Action de contextualiser ou de faire connaître le contenu d'un jeu de données, soit de produire des méta-données*
 
 ## Données de référence
 
@@ -224,10 +233,13 @@ Aussi appelée Loi Pour une République Numérique. Datant de 2016, elle promulg
 ## MCD
 
 ## Metadata
+Méta-données*
 
 ## Méta-données
+Données sur les données. Il s'agit principalement de l'identité du producteur de la donnée, de sa date de création, de son mode de fabrication (généalogie), de son emprise géographique, du contexte et de l'objectif poursuivi par la production de la donnée.
 
 ## ML
+Machine Learning. Techniques statistiques visant à prédire, classer les entités d'un tableau ou d'une base de données, sur la base d'un apprentissage supervisé ou non par un humain.
 
 ## MPD
 
@@ -346,6 +358,7 @@ Ou table de données. Peut identifier un tableau de données, ou la table de don
 Format selon lequel décrire des données et établir des schémas ou standards de données. 
 
 ## Tableau
+Fichier de données tabulaire constitué de lignes et de colonnes contenant des valeurs.
 
 ## Tabulaire
 
