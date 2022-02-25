@@ -7,8 +7,10 @@ Une proposition de glossaire de la data et de l'opendata
 - Données JSON : en cours
 
 ## Comment contribuer ?
-- Se créer un compte github
+- Créer un compte github
 - Se connecter
 - Aller sur [cette page](https://github.com/datagistips/glossaire-data/wiki/Glossaire-de-la-data-et-de-l'opendata)
 - Cliquer sur `Edit`
 - Rajouter une définition
+
+Ou bien faire une [Issue](https://github.com/datagistips/glossaire-data/issues) avec la définition, et je l'intègrerai
