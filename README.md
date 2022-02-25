@@ -390,6 +390,9 @@ Données à caractère personnel.
 ### Service Public de la Donnée
 Ensemble des données pivots et de référence à format impact économique et sociétal.
 
+### SGD
+Superviseur.e Général.e de la Donnée. Personne chargée d'animer la communauté des producteurs de données, d'alimenter le catalogue de données ouvertes, d'accroître la qualité des données de son organisation, et d'augmenter leur niveau de réutilisation par des tiers. Voir CDO*
+
 ### SIG
 Système d'Information Géographique. Infrastructure, logiciels et bases de données visant à stocker, administrer et analyser des données à composante spatiale.
 
